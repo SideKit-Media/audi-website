@@ -2,7 +2,7 @@
 
 A cinematic, scroll-driven motorsport showcase website built for the Audi e-tron GT Race. Inspired by Apple's product page scroll animations — 243 frames of footage play frame-by-frame as you scroll, creating a video-like experience entirely in the browser.
 
-Live demo: [your-deployment-url-here]
+Live demo:[ [your-deployment-url-here]](https://audi-website-livid.vercel.app/#)
 
 ---
 
